@@ -1,10 +1,10 @@
-# 基于SSM的个人博客管理系统
+# 基于SSM的个人博客管理系统2
 
 ## 获取方式
 
-扫描下方，回复关键词  ：**博客2** ，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**博客**，查看导入教程视频、sql脚本和源码等
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -31,33 +31,25 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312304280.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202207312304280.jpg)
 
 ### 4.2 前端模块
 
-![前端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305473.jpg)
+![前端首页](https://www.codeshop.fun/Typora-Images/202207312305473.jpg)
 
-![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305500.jpeg)
+![](https://www.codeshop.fun/Typora-Images/202207312305500.jpeg)
 
-![博文详情2](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305160.jpg)
+![博文详情2](https://www.codeshop.fun/Typora-Images/202207312305160.jpg)
 
 ### 4.3 后端模块
 
-![后端首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305895.jpg)
+![后端首页](https://www.codeshop.fun/Typora-Images/202207312305895.jpg)
 
-![后端添加博文](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305134.jpg)
+![后端添加博文](https://www.codeshop.fun/Typora-Images/202207312305134.jpg)
 
-![后端博文详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305957.jpg)
+![后端博文详情](https://www.codeshop.fun/Typora-Images/202207312305957.jpg)
 
-![后端博文评论](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305808.jpg)
+![后端博文评论](https://www.codeshop.fun/Typora-Images/202207312305808.jpg)
 
-![后端博文编辑](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202207312305767.jpg)
-
-## 5、获取方式
-
-扫描下方，回复关键词  ：**博客2** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+![后端博文编辑](https://www.codeshop.fun/Typora-Images/202207312305767.jpg)
 
